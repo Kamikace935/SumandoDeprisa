@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SumandoDeprisa</string>
+    <string name="pregunta">¿Cuántos segundos necesitas para resolver la suma?</string>
+    <string name="pistaSegundos">Escribe aquí tus segunditos</string>
+    <string name="comienzo">Comenzemos</string>
+
+    <string name="salida">salir</string>
+    <string name="simbolosuma">+</string>
+    <string name="pistaResultado">Pon aquí el resultado</string>
+    <string name="resolver">Resulve</string>
+
+</resources>
