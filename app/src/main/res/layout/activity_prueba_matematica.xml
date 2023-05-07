@@ -14,7 +14,7 @@
         app:layout_constraintTop_toTopOf="parent">
 
         <Button
-            android:id="@+id/btSalida"
+            android:id="@+id/btSalir"
             android:layout_width="wrap_content"
             android:layout_height="70dp"
             android:layout_marginTop="15dp"
@@ -30,7 +30,7 @@
             android:layout_gravity="center_horizontal"/>
 
         <TextView
-            android:id="@+id/tvSumando1"
+            android:id="@+id/tvNumero1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
@@ -48,7 +48,7 @@
             android:layout_gravity="center"/>
 
         <TextView
-            android:id="@+id/tvSumando2"
+            android:id="@+id/tvNumero2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
 
@@ -63,7 +63,7 @@
             android:layout_gravity="center" />
 
         <EditText
-            android:id="@+id/edtRespuesta"
+            android:id="@+id/etRespuesta"
             android:layout_width="wrap_content"
             android:layout_height="48dp"
             android:layout_marginTop="40dp"
@@ -73,7 +73,7 @@
             android:importantForAutofill="no"/>
 
         <Button
-            android:id="@+id/btResolver"
+            android:id="@+id/btResultado"
             android:layout_width="wrap_content"
             android:layout_height="48dp"
             android:layout_gravity="center"

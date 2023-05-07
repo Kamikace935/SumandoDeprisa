@@ -24,7 +24,7 @@
             android:layout_gravity="center"/>
 
         <EditText
-            android:id="@+id/segundos"
+            android:id="@+id/etSegundos"
             android:layout_width="wrap_content"
             android:layout_height="48dp"
             android:layout_marginTop="35dp"
@@ -34,7 +34,7 @@
             android:importantForAutofill="no" />
 
         <Button
-            android:id="@+id/inicio"
+            android:id="@+id/btInicio"
             android:layout_width="wrap_content"
             android:layout_height="80dp"
             android:layout_gravity="center"
@@ -43,7 +43,7 @@
             android:textSize="18sp"/>
 
         <TextView
-            android:id="@+id/respuesta"
+            android:id="@+id/tvRespuesta"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center"

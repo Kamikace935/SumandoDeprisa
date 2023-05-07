@@ -9,4 +9,6 @@
     <string name="pistaResultado">Pon aquí el resultado</string>
     <string name="resolver">Resulve</string>
 
+    <string name="acierto">No era tan difícil, en primaria se aprende a sumar</string>
+    <string name="fallo">Eres un paquete, vuelve a primaria</string>
 </resources>
